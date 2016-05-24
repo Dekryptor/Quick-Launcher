@@ -8,3 +8,4 @@ C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher
 C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Release\BetterLauncher.csproj.GenerateResource.Cache
 C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Release\BetterLauncher.exe
 C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Release\BetterLauncher.pdb
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Release\BetterLauncher.csprojResolveAssemblyReference.cache
