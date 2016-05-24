@@ -1,0 +1,10 @@
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\bin\Release\BetterLauncher.exe.config
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\bin\Release\BetterLauncher.exe
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\bin\Release\BetterLauncher.pdb
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\bin\Release\MaterialSkin.dll
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\bin\Release\MaterialSkin.pdb
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Release\BetterLauncher.Form1.resources
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Release\BetterLauncher.Properties.Resources.resources
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Release\BetterLauncher.csproj.GenerateResource.Cache
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Release\BetterLauncher.exe
+C:\Users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Release\BetterLauncher.pdb

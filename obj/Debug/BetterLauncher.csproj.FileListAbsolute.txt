@@ -1,0 +1,11 @@
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\bin\Debug\BetterLauncher.exe.config
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\bin\Debug\BetterLauncher.exe
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\bin\Debug\BetterLauncher.pdb
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\bin\Debug\MaterialSkin.dll
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\bin\Debug\MaterialSkin.pdb
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Debug\BetterLauncher.csprojResolveAssemblyReference.cache
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Debug\BetterLauncher.Form1.resources
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Debug\BetterLauncher.Properties.Resources.resources
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Debug\BetterLauncher.csproj.GenerateResource.Cache
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Debug\BetterLauncher.exe
+c:\users\sdl\documents\visual studio 2015\Projects\BetterLauncher\BetterLauncher\obj\Debug\BetterLauncher.pdb
